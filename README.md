@@ -15,7 +15,7 @@
 
 ### lab 3:
 
-- [ ] 1. Rysowanie prostokąta
+- [x] 1. Rysowanie prostokąta
 - [ ] 2. Potęga modulo n
 - [ ] 3. Suma cyfr liczby
 - [ ] 4. Problem Ulama
