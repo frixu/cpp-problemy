@@ -31,23 +31,6 @@ int main() {
 		}
 	}
 
-	/* for (int x = 0; x <= 2; x++) { */
-	/* 	if (nums_unsorted[x] > nums_sorted[0]) { */
-	/* 		nums_sorted[0] = nums_unsorted[x]; */
-	/* 	} */
-	/* } */
-	/* for (int x = 0; x <= 2; x++) { */
-	/* 	if (nums_unsorted[x] > nums_sorted[1] && nums_unsorted[x] < nums_sorted[0]) { */
-	/* 		nums_sorted[1] = nums_unsorted[x]; */
-	/* 	} */
-	/* } */
-	/* for (int x = 0; x <= 2; x++) { */
-	/* 	if (nums_unsorted[x] > nums_sorted[2] && nums_unsorted[x] < nums_sorted[1]) { */
-	/* 		nums_sorted[2] = nums_unsorted[x]; */
-	/* 	} */
-	/* } */
-
-
 	for (int i = 0; i <= 2; i++) {
 		cout << nums_sorted[i] << " ";
 	}
