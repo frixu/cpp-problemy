@@ -16,7 +16,6 @@ int main() {
 	cin >> c;
 
 	float p = 0.5 * (a + b + c);
-	cout << p << endl;
 	float s = sqrt(p * (p - a) * (p - b) * (p - c));
 
 	cout << s << endl;

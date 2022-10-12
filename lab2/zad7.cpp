@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+	
 	int x, y, z,
 		x2, y2, z2;
 

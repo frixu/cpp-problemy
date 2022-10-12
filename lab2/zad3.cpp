@@ -18,16 +18,14 @@ int main() {
 	int nums_sorted[3] = {0, 0, 0};
 
 	for (int i = 0; i <= 2; i++) {
-		for (int x = 0; x <= 2; x++) {
-			if (nums_unsorted[x] > nums_sorted[i]) {
-				if (i >= 1) {
-					if (nums_unsorted[x] < nums_sorted[i - 1]) {
-						nums_sorted[i] = nums_unsorted[x];
-					}
-				} else {
-					nums_sorted[i] = nums_unsorted[x];	
-				}			
-			}
+		for (int j = 0; j <= 2; j++) {
+
+		if (nums_unsorted[j] > nums_sorted[i]) {
+			if (i <= 0 || nums_unsorted[j] < nums_sorted[i - 1]) {
+				nums_sorted[i] = nums_unsorted[j];	
+			} 		
+		}
+
 		}
 	}
 

@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+
 	float x, y, r,
 		x2, y2, r2;
 
@@ -23,7 +24,7 @@ int main() {
 
 	double d = sqrt(pow(x2 - x, 2) + pow(y2 - y, 2));
 
-	if ((d - (r2 + r)) <= 0) {
+	if (d - (r2 + r) <= 0) {
 		cout << "T" << endl;
 	} else {
 		cout << "F" << endl;

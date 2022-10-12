@@ -27,11 +27,12 @@ int main() {
 		cout << "Suma miar dwoch pozosatlych: " << trojkat[next] + trojkat[prev] << endl;
 		if (trojkat[i] < trojkat[next] + trojkat[prev] &&
 			trojkat[i] > trojkat[next] - trojkat[prev]) {
+
 			czy_trojkat = true;
-		} else {
-			czy_trojkat = false;
-		}
+
+		} else {czy_trojkat = false;}
 	}
+
 	cout << czy_trojkat << endl;
 
 	return 0;

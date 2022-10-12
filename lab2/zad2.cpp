@@ -2,7 +2,9 @@
 using namespace std;
 
 int main() {
+
 	int x, y;
+	
 	cout << "Podaj pierwszą liczbę: ";
 	cin >> x;
 	cout << "Podaj drugą liczbę: ";
