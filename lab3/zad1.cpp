@@ -2,7 +2,9 @@
 using namespace std;
 
 int main() {
+
 	int rows, cols;
+
 	cout << "Podaj liczbę wierszy: ";
 	cin >> rows;
 	cout << "Podaj liczbę kolumn: ";
