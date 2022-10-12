@@ -26,5 +26,4 @@
 - [ ] 9. Operacje na liczbach zespolonych
 - [ ] 10. Dziesiętne do rzymskie
 - [ ] 11. Kalkulator
-- [ ] 12. Podzielość Różne zadania rozwiązane w języku c++
-
+- [ ] 12. Podzielość
