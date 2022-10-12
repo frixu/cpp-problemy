@@ -17,7 +17,7 @@
 
 - [x] 1. Rysowanie prostokąta
 - [ ] 2. Potęga modulo n
-- [ ] 3. Suma cyfr liczby
+- [x] 3. Suma cyfr liczby
 - [ ] 4. Problem Ulama
 - [ ] 5. Minimum maksimum
 - [ ] 6. Testowanie trójkątów
