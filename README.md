@@ -16,9 +16,9 @@
 ### lab 3:
 
 - [x] 1. Rysowanie prostokąta
-- [ ] 2. Potęga modulo n
+- [x] 2. Potęga modulo n
 - [x] 3. Suma cyfr liczby
-- [ ] 4. Problem Ulama
+- [x] 4. Problem Ulama
 - [ ] 5. Minimum maksimum
 - [ ] 6. Testowanie trójkątów
 - [ ] 7. Funkcja sigma
