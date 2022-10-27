@@ -19,9 +19,9 @@
 - [x] 2. Potęga modulo n
 - [x] 3. Suma cyfr liczby
 - [x] 4. Problem Ulama
-- [ ] 5. Minimum maksimum
+- [x] 5. Minimum maksimum
 - [ ] 6. Testowanie trójkątów
-- [ ] 7. Funkcja sigma
+- [x] 7. Funkcja sigma
 - [ ] 8. Operacje na liczbach wymiernych
 - [ ] 9. Operacje na liczbach zespolonych
 - [ ] 10. Dziesiętne do rzymskie
