@@ -11,6 +11,7 @@ int main() {
 
 	long long result =
 		fmod(pow(a, n), k);
+
 	cout << result << endl;
 
 	return 0;
