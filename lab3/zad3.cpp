@@ -13,9 +13,7 @@ int main() {
 	for (int i = 0; i < n; i++) {
 
 		xs, s = 0;
-
-		cin >> x;
-		cin >> y;
+		cin >> x >> y;
 
 		xs = xy = x * y;
 
