@@ -5,13 +5,12 @@ int sigma(int value);
 
 int main() {
 
-	int number[7];
+	int number[200];
 
-	for (int i = 0; i < 7; i++)
-		cin >> number[i];
-	
-	cout << endl << "Wyjście: " << endl;
-	for (int i = 0; i < 7; i++) {
+	int n = 0;
+	while (cin >> number[n]) n++;
+
+	for (int i = 0; i < n; i++) {
 		cout << sigma(number[i]) << " ";
 
 		if (sigma(number[i]) == number[i] * 2)
